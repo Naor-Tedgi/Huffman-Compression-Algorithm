@@ -1,5 +1,6 @@
 # Huffman-Compression-Algorithm
-Huffman Compression Algorithm
+https://en.wikipedia.org/wiki/Huffman_coding
+
 
 # Usage
 for compression
