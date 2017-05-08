@@ -2,6 +2,10 @@
 https://en.wikipedia.org/wiki/Huffman_coding
 
 
+![output](https://github.com/naor2205/Huffman-Compression-Algorithm/blob/master/HuffShockwave.png)
+
+
+
 # Usage
 for compression
 Huffman.exe -c <path_to_file>
